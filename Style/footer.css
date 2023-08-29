@@ -1,0 +1,36 @@
+.container__rodape{
+  display: flex;
+  flex-direction: column;
+  margin: 1.5rem auto 0;
+}
+
+.rodape{
+  display: flex;
+  justify-content: center;
+  gap: 1.4rem;
+  font-size: 0.7rem;
+  margin-bottom: 1.6rem;
+}
+
+.rodape__lista{
+  list-style: none;
+}
+
+.rodape__lista a{
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-e-redes-sociais{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.rodape__redes-sociais{
+  display: flex;
+  gap: 3px;
+}

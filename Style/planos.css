@@ -1,0 +1,27 @@
+.background-pg3 {
+  background-image: url(/Assets/background-planos.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container__card-de-planos {
+  text-align: center;
+}
+
+.img1-planos {
+  margin-top: 11.5rem;
+  width: 27rem;
+}
+
+.img2-planos {
+  margin-top: 3rem;
+}
+
+.img3-planos {
+  padding-top: 3rem;
+}
+
+.img4-planos {
+  padding: 1rem 0 10rem 0;
+}
