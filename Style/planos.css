@@ -1,0 +1,114 @@
+.background-pg3 {
+  background-image: url(/Assets/background-planos.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container__card-de-planos {
+  text-align: center;
+  padding-top: 11rem;
+  height: auto;
+}
+
+.caixa__card {
+  min-width: 24rem;
+  height: auto;
+  position: relative;
+}
+
+.button__plan {
+  display: block;
+  position: absolute;
+  top: 88%;
+  left: 50%;
+  transform: translate(-55%);
+  background: #fff;
+  border: none;
+  width: 15.6rem;
+  height: 2.9rem;
+  box-shadow: 3px 3px 10px #303030;
+}
+
+.button__plan:hover {
+  background: linear-gradient(156deg, #050A4D 0%, #0081BA 100%);
+}
+
+.button__plan a:hover {
+  color: #fff;
+}
+
+.button__plan2 {
+  display: block;
+  position: absolute;
+  top: 87%;
+  left: 50%;
+  transform: translate(-55%);
+  background: #fff;
+  border: none;
+  width: 15.6rem;
+  height: 2.9rem;
+  box-shadow: 3px 3px 10px #303030;
+}
+
+.button__plan2:hover {
+  background: linear-gradient(156deg, #4AB451 0%, #BFFF22 100%);
+}
+
+.button__plan2 a:hover {
+  color: #000;
+  font-weight: bold;
+}
+
+.button__plan3 {
+  display: block;
+  position: absolute;
+  top: 87%;
+  left: 50%;
+  transform: translate(-55%);
+  background: #fff;
+  border: none;
+  width: 15.6rem;
+  height: 2.9rem;
+  box-shadow: 3px 3px 10px #303030;
+}
+
+.button__plan3:hover {
+  background: linear-gradient(156deg, #4D30F4 0%, #30B8F4 100%);
+}
+
+.button__plan3 a:hover {
+  color: #fff;
+  font-weight: bold;
+}
+
+.button__plan4 {
+  display: block;
+  position: absolute;
+  top: 87%;
+  left: 50%;
+  transform: translate(-55%);
+  background: #fff;
+  border: none;
+  width: 15.6rem;
+  height: 2.9rem;
+  box-shadow: 3px 3px 10px #303030;
+}
+
+
+.button__plan4:hover {
+  background: linear-gradient(156deg, #EB1650 0%, #EE8DA8 100%);
+}
+
+.button__plan4 a:hover {
+  color: #fff;
+  font-weight: bold;
+}
+
+.img2-planos {
+  margin-top: 3rem;
+}
+
+.img3-planos {
+  padding-top: 3rem;
+}
